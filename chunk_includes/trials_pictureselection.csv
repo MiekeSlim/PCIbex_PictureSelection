@@ -1,0 +1,37 @@
+Sentence,Subject_sg,Subject_pl,Object_sg,Object_pl,Group,Item,Quantifier
+Elk van de kinderen ruikt een pizza ,kid_sg.png,kid_pl.png,pizza_sg.png,pizza_pl.png,A,9,Elke
+E&eacuten van de fietsers rijdt op een fiets ,cyclist_sg.png,cyclist_pl.png,bicycle_sg.png,bicycle_pl.png,A,3,Een
+E&eacuten van de mieren draagt een brood ,ant_sg.png,ant_pl.png,bread_sg.png,bread_pl.png,A,1,Een
+E&eacuten van de boeven bestormt een geldwagen ,burglar_sg.png,burglar_pl.png,money_truck_sg.png,money_truck_pl.png,A,2,Een
+Alle kinderen rijden op een skateboard ,kid_helmet_sg.png,kid_helmet_pl.png,skateboard_sg.png,skateboard_pl.png,A,8,Alle
+Elk van de verhuizers draagt een doos ,mover_sg.png,mover_pl.png,box_sg.png,box_pl.png,A,11,Elke
+Alle giraffes eten een blaadje ,giraffe_sg.png,giraffe_pl.png,leaf_sg.png,leaf_pl.png,A,5,Alle
+E&eacuten van de honden ruikt een worstje ,dog_sg.png,dog_pl.png,sausage_sg.png,sausage_pl.png,A,4,Een
+Alle klusjesmannen beklimmen een ladder ,handyman_sg.png,handyman_pl.png,ladder_sg.png,ladder_pl.png,A,6,Alle
+Elk van de apen eet een banaan ,monkey_sg.png,monkey_pl.png,banana_sg.png,banana_pl.png,A,10,Elke
+Elk van de vikingen bestormt een schip ,viking_sg_v2.png,viking_pl_v2.png,viking_ship_sg_v2.png,viking_ship_pl_v2.png,A,12,Elke
+Alle wandelaars beklimmen een berg ,hiker_sg.png,hiker_pl.png,mountain_sg.png,mountain_pl.png,A,7,Alle
+Alle vikingen bestormen een schip ,viking_sg_v2.png,viking_pl_v2.png,viking_ship_sg_v2.png,viking_ship_pl_v2.png,B,12,Alle
+E&eacuten van de giraffes eet een blaadje ,giraffe_sg.png,giraffe_pl.png,leaf_sg.png,leaf_pl.png,B,5,Een
+Alle apen eten een banaan ,monkey_sg.png,monkey_pl.png,banana_sg.png,banana_pl.png,B,10,Alle
+Elk van de fietsers rijdt op een fiets ,cyclist_sg.png,cyclist_pl.png,bicycle_sg.png,bicycle_pl.png,B,3,Elke
+Elk van de mieren draagt een brood ,ant_sg.png,ant_pl.png,bread_sg.png,bread_pl.png,B,1,Elke
+Elk van de boeven bestormt een geldwagen ,burglar_sg.png,burglar_pl.png,money_truck_sg.png,money_truck_pl.png,B,2,Elke
+Alle kinderen ruiken een pizza ,kid_sg.png,kid_pl.png,pizza_sg.png,pizza_pl.png,B,9,Alle
+E&eacuten van de klusjesmannen beklimt een ladder ,handyman_sg.png,handyman_pl.png,ladder_sg.png,ladder_pl.png,B,6,Een
+E&eacuten van de wandelaars beklimt een berg ,hiker_sg.png,hiker_pl.png,mountain_sg.png,mountain_pl.png,B,7,Een
+E&eacuten van de kinderen rijdt op een skateboard ,kid_helmet_sg.png,kid_helmet_pl.png,skateboard_sg.png,skateboard_pl.png,B,8,Een
+Elk van de honden ruikt een worstje ,dog_sg.png,dog_pl.png,sausage_sg.png,sausage_pl.png,B,4,Elke
+Alle verhuizers dragen een doos ,mover_sg.png,mover_pl.png,box_sg.png,box_pl.png,B,11,Alle
+Alle mieren dragen een brood ,ant_sg.png,ant_pl.png,bread_sg.png,bread_pl.png,C,1,Alle
+E&eacuten van de apen eet een banaan ,monkey_sg.png,monkey_pl.png,banana_sg.png,banana_pl.png,C,10,Een
+Elk van de kinderen rijdt op een skateboard ,kid_helmet_sg.png,kid_helmet_pl.png,skateboard_sg.png,skateboard_pl.png,C,8,Elke
+Elk van de klusjesmannen beklimt een ladder ,handyman_sg.png,handyman_pl.png,ladder_sg.png,ladder_pl.png,C,6,Elke
+Alle boeven bestormen een geldwagen ,burglar_sg.png,burglar_pl.png,money_truck_sg.png,money_truck_pl.png,C,2,Alle
+E&eacuten van de verhuizers draagt een doos ,mover_sg.png,mover_pl.png,box_sg.png,box_pl.png,C,11,Een
+E&eacuten van de kinderen ruikt een pizza ,kid_sg.png,kid_pl.png,pizza_sg.png,pizza_pl.png,C,9,Een
+Alle honden ruiken een worstje ,dog_sg.png,dog_pl.png,sausage_sg.png,sausage_pl.png,C,4,Alle
+Alle fietsers rijden op een fiets ,cyclist_sg.png,cyclist_pl.png,bicycle_sg.png,bicycle_pl.png,C,3,Alle
+Elk van de wandelaars beklimt een berg ,hiker_sg.png,hiker_pl.png,mountain_sg.png,mountain_pl.png,C,7,Elke
+Elk van de giraffes eet een blaadje ,giraffe_sg.png,giraffe_pl.png,leaf_sg.png,leaf_pl.png,C,5,Elke
+E&eacuten van de vikingen bestormt een schip ,viking_sg_v2.png,viking_pl_v2.png,viking_ship_sg_v2.png,viking_ship_pl_v2.png,C,12,Een
