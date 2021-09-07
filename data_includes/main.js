@@ -1,7 +1,7 @@
 PennController.ResetPrefix(null);
 PennController.SetCounter("Counter")
 PennController.DebugOff()
-PennController.AddHost("https://users.ugent.be/~mslim/EyeTrackImgs/");
+PennController.AddHost("https://users.ugent.be/~mslim/PictureSelection/");
 
 PennController.Sequence("welcome", "Counter", "trials", "prequestionnaire", "questionnairepage", "send", "exit")
 
